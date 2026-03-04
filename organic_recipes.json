@@ -1,0 +1,137 @@
+{
+    "recipes": {
+        "leaf_blight": {
+            "name": "Neem & Garlic Spray",
+            "ingredients": [
+                "10 liters of water",
+                "100ml neem oil",
+                "50g crushed garlic cloves",
+                "10ml liquid soap (natural surfactant)"
+            ],
+            "preparation": [
+                "Crush garlic cloves and soak in 2 liters of water overnight",
+                "Strain the garlic water",
+                "Mix neem oil with liquid soap in a separate container",
+                "Add the neem-soap mixture to the garlic water",
+                "Add remaining water and mix thoroughly"
+            ],
+            "application": {
+                "method": "Spray on affected leaves and stems, covering both upper and lower leaf surfaces",
+                "frequency": "Apply every 7-10 days",
+                "timing": "Early morning or late evening",
+                "duration": "Continue for 3-4 weeks"
+            }
+        },
+        "powdery_mildew": {
+            "name": "Baking Soda & Milk Solution",
+            "ingredients": [
+                "10 liters of water",
+                "40g baking soda",
+                "1 liter milk (raw or unpasteurized preferred)",
+                "15ml vegetable oil"
+            ],
+            "preparation": [
+                "Dissolve baking soda in 1 liter of warm water",
+                "Mix milk with 2 liters of water",
+                "Combine both solutions",
+                "Add vegetable oil and remaining water",
+                "Stir well until fully mixed"
+            ],
+            "application": {
+                "method": "Spray thoroughly on all crop surfaces, especially affected areas",
+                "frequency": "Apply twice weekly",
+                "timing": "Morning hours when dew has dried",
+                "duration": "Continue until symptoms disappear, then once weekly for prevention"
+            }
+        },
+        "bacterial_spot": {
+            "name": "Aloe Vera & Turmeric Shield",
+            "ingredients": [
+                "10 liters of water",
+                "100g turmeric powder (Curcuma longa)",
+                "200ml fresh aloe vera gel",
+                "50g ginger paste"
+            ],
+            "preparation": [
+                "Extract fresh aloe vera gel and blend with 1 liter of water",
+                "Mix turmeric powder and ginger paste in 1 liter of warm water",
+                "Combine the aloe solution and turmeric mixture",
+                "Add remaining water and stir vigorously",
+                "Filter through a muslin cloth"
+            ],
+            "application": {
+                "method": "Spray directly on leaf spots and lesions",
+                "frequency": "Apply every 5-7 days",
+                "timing": "Late evening to allow absorption",
+                "duration": "Continue for 2-3 weeks"
+            }
+        },
+        "rust": {
+            "name": "Fermented Compost Tea",
+            "ingredients": [
+                "10 liters of water",
+                "2 kg well-aged compost (vermicompost)",
+                "500g dried horsetail herb (Equisetum)",
+                "50ml molasses (food for microbes)"
+            ],
+            "preparation": [
+                "Soak horsetail in 3 liters of water for 24 hours",
+                "Place compost in a cloth bag (tea bag style)",
+                "Suspend compost bag in 7 liters of water for 3-5 days (aerated if possible)",
+                "Mix the horsetail extract with the compost tea",
+                "Add molasses just before application"
+            ],
+            "application": {
+                "method": "Foliar spray and soil drench around crop base",
+                "frequency": "Apply every 10-14 days",
+                "timing": "Early morning",
+                "duration": "Continue throughout growing season"
+            }
+        },
+        "mosaic_virus": {
+            "name": "Buttermilk & Wood Ash Brew",
+            "ingredients": [
+                "10 liters of water",
+                "1 liter sour buttermilk (fermented 3-5 days)",
+                "200g wood ash (sifted)",
+                "50ml neem oil"
+            ],
+            "preparation": [
+                "Mix wood ash in 2 liters of water and let settle overnight",
+                "Strain the wood ash water (use the liquid only)",
+                "Mix fermented buttermilk with 5 liters of water",
+                "Combine ash water and buttermilk solution",
+                "Add neem oil and remaining water, shake well"
+            ],
+            "application": {
+                "method": "Spray on leaves to deter vectors and boost immunity",
+                "frequency": "Apply every 10 days",
+                "timing": "Evening application recommended",
+                "duration": "Preventive measure throughout season"
+            }
+        },
+        "anthracnose": {
+            "name": "Ginger-Garlic-Chili Concentrate",
+            "ingredients": [
+                "10 liters of water",
+                "100g garlic cloves",
+                "100g ginger root",
+                "50g hot chili peppers",
+                "20ml liquid soap"
+            ],
+            "preparation": [
+                "Grind garlic, ginger, and chilies into a fine paste",
+                "Soak paste in 2 liters of water for 24 hours",
+                "Filter the extract through a fine cloth",
+                "Add liquid soap to the extract",
+                "Dilute with remaining 8 liters of water"
+            ],
+            "application": {
+                "method": "Targeted spray on affected fruits and stems",
+                "frequency": "Apply every 5-7 days",
+                "timing": "Late afternoon",
+                "duration": "Continue until infection clears"
+            }
+        }
+    }
+}

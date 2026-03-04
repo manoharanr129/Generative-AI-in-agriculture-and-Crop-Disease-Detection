@@ -1,0 +1,129 @@
+{
+  "diseases": [
+    {
+      "id": "leaf_blight",
+      "name": "Leaf Blight",
+      "description": "A fungal disease causing brown spots and lesions on leaves",
+      "symptoms": [
+        "Brown spots",
+        "Yellowing leaves",
+        "Leaf wilting"
+      ],
+      "affected_crops": [
+        "Rice",
+        "Wheat",
+        "Maize",
+        "Cotton"
+      ],
+      "severity_levels": [
+        "mild",
+        "moderate",
+        "severe"
+      ]
+    },
+    {
+      "id": "powdery_mildew",
+      "name": "Powdery Mildew",
+      "description": "White powdery fungal growth on leaves and stems",
+      "symptoms": [
+        "White powder coating",
+        "Leaf curling",
+        "Stunted growth"
+      ],
+      "affected_crops": [
+        "Wheat",
+        "Cotton",
+        "Sugarcane",
+        "Maize"
+      ],
+      "severity_levels": [
+        "mild",
+        "moderate",
+        "severe"
+      ]
+    },
+    {
+      "id": "bacterial_spot",
+      "name": "Bacterial Spot",
+      "description": "Bacterial infection causing dark spots on leaves and fruits",
+      "symptoms": [
+        "Dark water-soaked spots",
+        "Yellow halos",
+        "Fruit lesions"
+      ],
+      "affected_crops": [
+        "Cotton",
+        "Maize",
+        "Rice"
+      ],
+      "severity_levels": [
+        "mild",
+        "moderate",
+        "severe"
+      ]
+    },
+    {
+      "id": "rust",
+      "name": "Rust Disease",
+      "description": "Fungal disease producing rust-colored pustules",
+      "symptoms": [
+        "Orange-brown pustules",
+        "Leaf yellowing",
+        "Premature leaf drop"
+      ],
+      "affected_crops": [
+        "Wheat",
+        "Maize",
+        "Sugarcane",
+        "Cotton"
+      ],
+      "severity_levels": [
+        "mild",
+        "moderate",
+        "severe"
+      ]
+    },
+    {
+      "id": "mosaic_virus",
+      "name": "Mosaic Virus",
+      "description": "Viral disease causing mottled leaf patterns",
+      "symptoms": [
+        "Mottled yellow-green patterns",
+        "Distorted leaves",
+        "Stunted growth"
+      ],
+      "affected_crops": [
+        "Sugarcane",
+        "Maize",
+        "Rice",
+        "Wheat"
+      ],
+      "severity_levels": [
+        "mild",
+        "moderate",
+        "severe"
+      ]
+    },
+    {
+      "id": "anthracnose",
+      "name": "Anthracnose",
+      "description": "Fungal disease causing dark sunken lesions",
+      "symptoms": [
+        "Dark sunken spots",
+        "Fruit rot",
+        "Leaf spots"
+      ],
+      "affected_crops": [
+        "Cotton",
+        "Maize",
+        "Sugarcane",
+        "Rice"
+      ],
+      "severity_levels": [
+        "mild",
+        "moderate",
+        "severe"
+      ]
+    }
+  ]
+}

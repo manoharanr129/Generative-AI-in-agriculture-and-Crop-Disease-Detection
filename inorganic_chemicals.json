@@ -1,0 +1,174 @@
+{
+    "chemicals": {
+        "leaf_blight": [
+            {
+                "name": "Mancozeb 75% WP",
+                "active_ingredient": "Mancozeb",
+                "concentration": "75%",
+                "recommended_dose_per_liter": "2.5g",
+                "mixing_ratio": {
+                    "chemical_to_water": "1:400"
+                },
+                "safety_precautions": [
+                    "Wear protective gloves and mask",
+                    "Avoid contact with skin and eyes",
+                    "Do not spray during flowering",
+                    "Maintain 7-day pre-harvest interval"
+                ]
+            },
+            {
+                "name": "Copper Oxychloride 50% WP",
+                "active_ingredient": "Copper Oxychloride",
+                "concentration": "50%",
+                "recommended_dose_per_liter": "3g",
+                "mixing_ratio": {
+                    "chemical_to_water": "1:333"
+                },
+                "safety_precautions": [
+                    "Use protective equipment",
+                    "Avoid spraying in hot weather",
+                    "Maintain 3-day pre-harvest interval"
+                ]
+            }
+        ],
+        "powdery_mildew": [
+            {
+                "name": "Sulfur 80% WP",
+                "active_ingredient": "Sulfur",
+                "concentration": "80%",
+                "recommended_dose_per_liter": "2g",
+                "mixing_ratio": {
+                    "chemical_to_water": "1:500"
+                },
+                "safety_precautions": [
+                    "Do not apply when temperature exceeds 32°C",
+                    "Wear dust mask during mixing",
+                    "Safe for organic farming"
+                ]
+            },
+            {
+                "name": "Hexaconazole 5% SC",
+                "active_ingredient": "Hexaconazole",
+                "concentration": "5%",
+                "recommended_dose_per_liter": "2ml",
+                "mixing_ratio": {
+                    "chemical_to_water": "1:500"
+                },
+                "safety_precautions": [
+                    "Highly toxic - use with extreme caution",
+                    "Wear full protective gear",
+                    "Maintain 15-day pre-harvest interval"
+                ]
+            }
+        ],
+        "bacterial_spot": [
+            {
+                "name": "Streptomycin Sulfate 90% SP",
+                "active_ingredient": "Streptomycin",
+                "concentration": "90%",
+                "recommended_dose_per_liter": "0.5g",
+                "mixing_ratio": {
+                    "chemical_to_water": "1:2000"
+                },
+                "safety_precautions": [
+                    "Antibiotic - use only when necessary",
+                    "Rotate with other treatments",
+                    "Maintain 5-day pre-harvest interval"
+                ]
+            },
+            {
+                "name": "Copper Hydroxide 77% WP",
+                "active_ingredient": "Copper Hydroxide",
+                "concentration": "77%",
+                "recommended_dose_per_liter": "2.5g",
+                "mixing_ratio": {
+                    "chemical_to_water": "1:400"
+                },
+                "safety_precautions": [
+                    "Wear protective clothing",
+                    "Do not mix with alkaline products",
+                    "Maintain 1-day pre-harvest interval"
+                ]
+            }
+        ],
+        "rust": [
+            {
+                "name": "Propiconazole 25% EC",
+                "active_ingredient": "Propiconazole",
+                "concentration": "25%",
+                "recommended_dose_per_liter": "1ml",
+                "mixing_ratio": {
+                    "chemical_to_water": "1:1000"
+                },
+                "safety_precautions": [
+                    "Toxic to aquatic life",
+                    "Use protective equipment",
+                    "Maintain 14-day pre-harvest interval"
+                ]
+            },
+            {
+                "name": "Triadimefon 25% WP",
+                "active_ingredient": "Triadimefon",
+                "concentration": "25%",
+                "recommended_dose_per_liter": "1g",
+                "mixing_ratio": {
+                    "chemical_to_water": "1:1000"
+                },
+                "safety_precautions": [
+                    "Wear gloves and mask",
+                    "Avoid drift to nearby crops",
+                    "Maintain 10-day pre-harvest interval"
+                ]
+            }
+        ],
+        "mosaic_virus": [
+            {
+                "name": "Imidacloprid 17.8% SL",
+                "active_ingredient": "Imidacloprid",
+                "concentration": "17.8%",
+                "recommended_dose_per_liter": "0.5ml",
+                "mixing_ratio": {
+                    "chemical_to_water": "1:2000"
+                },
+                "safety_precautions": [
+                    "Controls virus-spreading insects",
+                    "Toxic to bees - do not spray on flowers",
+                    "Wear protective gear",
+                    "Maintain 7-day pre-harvest interval"
+                ]
+            }
+        ],
+        "anthracnose": [
+            {
+                "name": "Carbendazim 50% WP",
+                "active_ingredient": "Carbendazim",
+                "concentration": "50%",
+                "recommended_dose_per_liter": "1g",
+                "mixing_ratio": {
+                    "chemical_to_water": "1:1000"
+                },
+                "safety_precautions": [
+                    "Systemic fungicide",
+                    "Use protective equipment",
+                    "Rotate with contact fungicides",
+                    "Maintain 5-day pre-harvest interval"
+                ]
+            },
+            {
+                "name": "Chlorothalonil 75% WP",
+                "active_ingredient": "Chlorothalonil",
+                "concentration": "75%",
+                "recommended_dose_per_liter": "2g",
+                "mixing_ratio": {
+                    "chemical_to_water": "1:500"
+                },
+                "safety_precautions": [
+                    "Broad-spectrum fungicide",
+                    "Wear full protective gear",
+                    "Toxic to fish",
+                    "Maintain 7-day pre-harvest interval"
+                ]
+            }
+        ]
+    }
+}
