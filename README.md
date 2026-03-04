@@ -21,11 +21,6 @@ A comprehensive web application that uses computer vision (OpenCV) to detect cro
 
 ### Installation
 
-1. **Navigate to the project directory**:
-   ```bash
-   cd C:\Users\manoh\.gemini\antigravity\scratch\Crop-disease-app
-   ```
-
 2. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
